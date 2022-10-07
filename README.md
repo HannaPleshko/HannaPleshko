@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=435&lines=Hi+there%2C+I'm+Hanna)](https://git.io/typing-svg) 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>  
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=435&lines=Hi+there%2C+I'm+Hanna" alt="Typing SVG" /></a> 
+</h1>  
   
  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.  
  - 😄 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -30,6 +30,3 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannaPleshko)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HannaPleshko)](https://git.io/streak-stats)
