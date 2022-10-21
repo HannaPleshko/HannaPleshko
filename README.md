@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 </h1>  
   
 I am a JavaScript/ Node.js developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from ⚪🔴⚪.  
-
+z
     ✔️ Skilled in back-end development with Node.js and TypeScript.
 
     ✔️ Hands-on experience with client-server architectures, networking protocols, design REST APIs, web services 
