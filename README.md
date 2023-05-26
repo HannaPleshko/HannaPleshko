@@ -15,22 +15,13 @@ Here are some ideas to get you started:
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=435&lines=Hi+there%2C+I'm+Hanna" alt="Typing SVG" /></a> 
 </h1>  
   
-I am a JavaScript/ Node.js developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from ⚪🔴⚪.  
+I am a highly skilled back-end developer with expertise in Node.js and TypeScript. I have hands-on experience in designing client-server architectures, implementing REST APIs, and developing web services. I am proficient in working with popular frameworks like Express and LoopBack4 for Node.js, and I have a strong background in working with databases, particularly PostgreSQL.
 
-    ✔️ Skilled in back-end development with Node.js and TypeScript.
+My testing arsenal includes Jest and Mocha frameworks for unit testing, as well as Postman for integration testing. I am also well-versed in front-end technologies like React and Redux.
 
-    ✔️ Hands-on experience with client-server architectures, networking protocols, design REST APIs, web services 
-    development and databases access.
+I pride myself on my ability to write efficient SQL queries and develop back-end database stored procedures. I have a deep understanding of object-oriented programming principles, and I am skilled in implementing SOLID and REST principles in my code. I have experience in tackling multi-threading and concurrency challenges, as well as in performing code refactoring and reviews.
 
-    ✔️ Full-time professional experience with Express and LoopBack4 frameworks for Node.js, PostgreSQL relation database, 
-    Jest and Mocha testing frameworks, Postman integration testing, React and Redux.
-
-    ✔️ Proven ability to development SQL queries and back-end database stored procedures.
-
-    ✔️ Considerable experience in object oriented programming, implementation SOLID and REST principles, multi-threading 
-    and concurrency, code refactoring and reviewing.
-
-    📫 How to reach me: yesenyasha.work.dev@gmail.com
+Feel free to reach out to me at yesenyasha.work.dev@gmail.com. I am always open to exciting collaborations and opportunities. Let's build amazing things together!
 
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannaPleshko&show_icons=true&include_all_commits=true&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
