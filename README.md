@@ -25,7 +25,7 @@ Feel free to reach out to me at yesenyasha.work.dev@gmail.com. I am always open 
 
 
 
-| <a href="https://github.com/hannapleshko/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hannapleshko&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/hannapleshko/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannapleshko&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/hannapleshko/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hannapleshko&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hanna's github stats" /></a> | <a href="https://github.com/hannapleshko/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannapleshko&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
