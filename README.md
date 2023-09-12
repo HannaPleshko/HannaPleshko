@@ -20,7 +20,7 @@ I am a highly skilled back-end developer with expertise in Node.js and TypeScrip
 My testing arsenal includes Jest and Mocha frameworks for unit testing, as well as Postman for integration testing. I am also well-versed in front-end technologies like React and Redux (Redux Toolkit, Redux Toolkit Query).
 
 I have a deep understanding of object-oriented programming principles, and I am skilled in implementing SOLID and REST principles in my code. I have experience in tackling multi-threading and concurrency challenges, as well as in performing code refactoring and reviews.
-
+ 
 Feel free to reach out to me at yesenyasha.work.dev@gmail.com. I am always open to exciting collaborations and opportunities. Let's build amazing things together!
 
 
