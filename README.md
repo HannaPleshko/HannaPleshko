@@ -21,7 +21,7 @@ My testing arsenal includes Jest and Mocha frameworks for unit testing, as well 
 
 I have a deep understanding of object-oriented programming principles, and I am skilled in implementing SOLID and REST principles in my code. I have experience in tackling multi-threading and concurrency challenges, as well as in performing code refactoring and reviews.
  
-Feel free to reach out to me at yesenyasha.work.dev@gmail.com. I am always open to exciting collaborations and opportunities. Let's build amazing things together!
+Feel free to reach out to me at anna-pleshko2000@mail.ru. I am always open to exciting collaborations and opportunities. Let's build amazing things together!
 
 
 
