@@ -23,17 +23,11 @@ I have a deep understanding of object-oriented programming principles, and I am 
  
 Feel free to reach out to me at anna-pleshko2000@mail.ru. I am always open to exciting collaborations and opportunities. Let's build amazing things together!
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hannapleshko&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hannapleshko&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=hannapleshko&show_icons=true" />
-</picture>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hannapleshko&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hannapleshko&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
